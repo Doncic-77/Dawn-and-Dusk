@@ -19,7 +19,7 @@
 |                             Name                             | Date       | Rank   | (up)Solved | A    | B    | C    | D    | E    | F    | G    | H    | I    | J    | K    | L    | M    |
 | :----------------------------------------------------------: | ---------- | ------ | ---------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 2022 China Collegiate Programming Contest (CCPC) Weihai Site | 2022.11.17 | 14/288 | (10)8/13   | ○    | √    | ○    | ○    | ○    | √    | ○    |      | ○    | ○    | ○    |      |      |
-| 2022 China Collegiate Programming Contest (CCPC) Guangzhou Onsite | 2022.11.20 | 89/283 | (7)4/13    |      | ○    | √    |      | ○    |      |      | ○    | √    |      |      | ○    | ○    |
+| 2022 China Collegiate Programming Contest (CCPC) Guangzhou Onsite | 2022.11.20 | 89/283 | (9)4/13    | √    | √    | √    |      | ○    |      |      | ○    | √    |      | √    | ○    | ○    |
 
 
 
