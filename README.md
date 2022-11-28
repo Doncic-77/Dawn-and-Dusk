@@ -75,6 +75,8 @@ flow建模
 
 平衡树 如splay treap fhqtreap
 
+温习一下主席树
+
 
 
 ## math
