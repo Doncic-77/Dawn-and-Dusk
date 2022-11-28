@@ -8,6 +8,8 @@
 
 # Trainings
 
+**每周2次**
+
 ○：赛时AC
 
 √：已补题
@@ -47,6 +49,8 @@ zyp：data structure , constructure
 
 # Technology
 
+**每周udp一次**
+
 已经学的科技贴上链接。
 
 - 链接里是知识blog + 一些题目。简要记录即可。
@@ -60,6 +64,8 @@ zyp：data structure , constructure
 最小路径覆盖 最小点覆盖 最大独立集 最大团 这一套理论
 
 flow建模
+
+最短路建模
 
 
 
