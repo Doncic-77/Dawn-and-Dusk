@@ -107,7 +107,7 @@ dp优化那一套
 
 ## construction
 
-[李哥25题 div1难度 进度 0 / 25](https://codeforces.com/contests/412155)
+[李哥25题 div1难度 进度 0 / 25](https://codeforces.com/contestInvitation/ae7a77d64029a00795c4ddff02750b99f1782b5f)
 
 
 
