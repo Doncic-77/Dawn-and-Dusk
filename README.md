@@ -37,7 +37,7 @@
 
 # Distribution
 
-lts：graph , string , geometry , constructure
+lts：graph , string , geometry , constructure , thinking
 
 cjt：dp , game theory , math , constructure
 
@@ -69,6 +69,12 @@ zyp：data structure , constructure
 
 
 
+## thinking
+
+atcoder 2000-2399难度题  正在刷
+
+
+
 ## graph
 
 最小路径覆盖 最小点覆盖 最大独立集 最大团 这一套理论
@@ -77,7 +83,9 @@ flow建模
 
 最短路建模
 
-2-sat
+2-sat 2/5
+
+差分约束
 
 支配树
 
@@ -137,11 +145,17 @@ dp优化那一套
 
 ## construction
 
-[李哥25题 div1难度 进度 0 / 25](https://codeforces.com/contestInvitation/ae7a77d64029a00795c4ddff02750b99f1782b5f)
+[div2 构造题单](https://codeforces.com/contestInvitation/d4f7ed39b16cd35d6dc0e3ef35378b31c09741d0)
+
+[div1 构造题单](https://codeforces.com/contestInvitation/ae7a77d64029a00795c4ddff02750b99f1782b5f)
+
+格雷码
 
 
 
 ## string
+
+border
 
 pam
 
