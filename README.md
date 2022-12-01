@@ -27,7 +27,7 @@
 | 2022 China Collegiate Programming Contest (CCPC) Weihai Site | 2022.11.17 | 14/288  | (10)8/13   | ○    | √    | ○    | ○    | ○    | √    | ○    |      | ○    | ○    | ○    |      |      | ×    |
 | 2022 China Collegiate Programming Contest (CCPC) Guangzhou Onsite | 2022.11.20 | 89/283  | (10)4/13   | √    | √    | √    |      | ○    |      |      | ○    | √    | √    | √    | ○    | ○    | ×    |
 | 2022 China Collegiate Programming Contest (CCPC) Mianyang Onsite | 2022.11.24 | 65/280  | (8)5/13    | ○    |      | ○    | √    | √    |      | ○    | ○    |      |      |      | √    | ○    | ×    |
-| 2022-2023 ICPC, NERC, Southern and Volga Russian Regional Contest | 2022.11.27 | 47/1307 | (9)9/14    |      | ○    |      | ○    | ○    | ○    |      | ○    |      |      | ○    | ○    | ○    | ○    |
+| 2022-2023 ICPC, NERC, Southern and Volga Russian Regional Contest | 2022.11.27 | 47/1307 | (12)9/14   | √    | ○    |      | ○    | ○    | ○    | √    | ○    | √    |      | ○    | ○    | ○    | ○    |
 
 
 
