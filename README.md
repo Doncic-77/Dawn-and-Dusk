@@ -97,6 +97,8 @@ flow建模
 
 反链 dilworth
 
+圆方树
+
 
 
 ## data structure
@@ -112,6 +114,10 @@ flow建模
 21济南A 线段树
 
 20EC G 线段树
+
+线段树分治
+
+lct
 
 
 
