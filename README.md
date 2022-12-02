@@ -30,6 +30,7 @@
 | 2022 China Collegiate Programming Contest (CCPC) Guangzhou Onsite | 2022.11.20 | 89/283  | (10)4/13   | √    | √    | √    |      | ○    |      |      | ○    | √    | √    | √    | ○    | ○    | ×    |
 | 2022 China Collegiate Programming Contest (CCPC) Mianyang Onsite | 2022.11.24 | 65/280  | (8)5/13    | ○    |      | ○    | √    | √    |      | ○    | ○    |      |      |      | √    | ○    | ×    |
 | 2022-2023 ICPC, NERC, Southern and Volga Russian Regional Contest | 2022.11.27 | 47/1307 | (12)9/14   | √    | ○    |      | ○    | ○    | ○    | √    | ○    | √    |      | ○    | ○    | ○    | ○    |
+| 2022 International Collegiate Programming Contest, Jinan Site | 2022.12.2  | 16/564  | (7)7/13    | ○    |      | ○    | ○    | ○    |      | ○    |      |      |      | ○    |      | ○    | ×    |
 
 
 
@@ -119,6 +120,8 @@ flow建模
 
 lct
 
+STL rope
+
 
 
 ## math
@@ -174,6 +177,8 @@ border
 pam
 
 ac自动机
+
+ac自动机建图跑数位dp ac自动机跑高斯消元
 
 温习sa sam
 
