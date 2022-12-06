@@ -172,6 +172,8 @@ dp优化那一套
 
 ## string
 
+[葫芦课进度1/6](https://ac.nowcoder.com/study/live/738)
+
 border
 
 pam
@@ -186,7 +188,7 @@ ac自动机建图跑数位dp ac自动机跑高斯消元
 
 ## geometry
 
-牛客课程进度1/6
+[俊杰课进度1/6](https://ac.nowcoder.com/courses/cover/live/737)
 
 点在凸包内 log判定 整理一个简要注意事项的几何文章
 
