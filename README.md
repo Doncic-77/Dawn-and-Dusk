@@ -33,6 +33,7 @@
 | 2022 International Collegiate Programming Contest, Jinan Site | 2022.12.2  | 16/564  | (7)7/13    | ○    |      | ○    | ○    | ○    |      | ○    |      |      |      | ○    |      | ○    | ×    |
 | 2022-2023 ICPC, NERC, Northern Eurasia Onsite (Unrated, Online Mirror, ICPC Rules, Teams Preferred) | 2022.12.7  | 54/1381 | (8)6/12    | ○    | ○    |      | √    | ○    | ○    |      | √    | ○    |      | ○    |      | ×    | ×    |
 | 2021-2022 ICPC Northwestern European Regional Programming Contest (NWERC 2021) | 2022.12.10 | 36/129  | (8)5/12    | ○    |      |      | √    |      | √    | ○    | ○    | √    | ○    | ○    |      | ×    | ×    |
+|   The 2020 ICPC Asia Yinchuan Regional Programming Contest   | 2022.12.14 | 6/506   | (7)7/13    | ○    | ○    |      |      | ○    |      | ○    |      |      | ○    | ○    |      | ○    | ×    |
 
 
 
