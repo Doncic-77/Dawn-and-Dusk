@@ -34,6 +34,7 @@
 | 2022-2023 ICPC, NERC, Northern Eurasia Onsite (Unrated, Online Mirror, ICPC Rules, Teams Preferred) | 2022.12.7  | 54/1381 | (8)6/12    | ○    | ○    |      | √    | ○    | ○    |      | √    | ○    |      | ○    |      | ×    | ×    |
 | 2021-2022 ICPC Northwestern European Regional Programming Contest (NWERC 2021) | 2022.12.10 | 36/129  | (8)5/12    | ○    |      |      | √    |      | √    | ○    | ○    | √    | ○    | ○    |      | ×    | ×    |
 |   The 2020 ICPC Asia Yinchuan Regional Programming Contest   | 2022.12.14 | 6/506   | (7)7/13    | ○    | ○    |      |      | ○    |      | ○    |      |      | ○    | ○    |      | ○    | ×    |
+| 2020-2021 ICPC NERC (NEERC), North-Western Russia Regional Contest (Northern Subregionals) | 2022.12.16 | 9/360   | (11)11/14  | ○    | ○    | ○    | ○    | ○    | ○    |      | ○    | ○    |      |      | ○    | ○    | ○    |
 
 
 
@@ -107,13 +108,13 @@ flow建模
 
 ## data structure
 
+温习一下点分治 √
+
 线段树维护矩阵 如ddp 历史和 历史平方和
 
 平衡树 如splay treap fhqtreap
 
 温习一下主席树
-
-温习一下点分治
 
 21济南A 线段树
 
