@@ -35,14 +35,18 @@
 | 2021-2022 ICPC Northwestern European Regional Programming Contest (NWERC 2021) | 2022.12.10 | 36/129  | (8)5/12    | ○    |      |      | √    |      | √    | ○    | ○    | √    | ○    | ○    |      | ×    | ×    |
 |   The 2020 ICPC Asia Yinchuan Regional Programming Contest   | 2022.12.14 | 6/506   | (7)7/13    | ○    | ○    |      |      | ○    |      | ○    |      |      | ○    | ○    |      | ○    | ×    |
 | 2020-2021 ICPC NERC (NEERC), North-Western Russia Regional Contest (Northern Subregionals) | 2022.12.16 | 9/360   | (11)11/14  | ○    | ○    | ○    | ○    | ○    | ○    |      | ○    | ○    |      |      | ○    | ○    | ○    |
+|           The 1st Universal Cup. Stage 1: Shenyang           | 2023.1.28  | 99/917  | (6)5/13    | ○    |      | ○    | ○    |      | ○    |      |      | √    |      |      | ○    |      | ×    |
+|          The 1st Universal Cup. Stage 2: Hong Kong           | 2023.2.4   | 66/347  | (9)8/12    | ○    | ○    | ○    |      | ○    | √    | ○    | ○    |      |      | ○    | ○    | ×    | ×    |
+|            The 1st Universal Cup. Stage 3: Poland            | 2023.2.11  | 82/203  | (8)8/13    | ○    | ○    | ○    | ○    |      |      | ○    |      | ○    |      | ○    |      | ○    | ×    |
 
 
 
 # Onsite
 
-|                             Name                             | Date      | Rank   | Solved  | A    | B    | C    | D    | E    | F    | G    | H    | I    | J    | K    | L    | M    |
-| :----------------------------------------------------------: | --------- | ------ | ------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 2022 International Collegiate Programming Contest, Hangzhou Site | 2022.12.4 | 25/544 | (8)7/13 | ○    |      | ○    | ○    |      | ○    | ○    |      | √    |      | ○    |      | ○    |
+|                             Name                             | Date       | Rank   | (up)Solved | A    | B    | C    | D    | E    | F    | G    | H    | I    | J    | K    | L    | M    |
+| :----------------------------------------------------------: | ---------- | ------ | ---------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 2022 International Collegiate Programming Contest, Hangzhou Site | 2022.12.4  | 25/544 | (8)7/13    | ○    |      | ○    | ○    |      | ○    | ○    |      | √    |      | ○    |      | ○    |
+| 2022 International Collegiate Programming Contest, Nanjing Site | 2022.12.18 | 21/417 | (9)7/13    | ○    | ○    |      | ○    | ○    |      | ○    |      | ○    | √    | √    |      | ○    |
 
 
 
