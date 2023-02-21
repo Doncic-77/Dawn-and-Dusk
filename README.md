@@ -38,6 +38,7 @@
 |           The 1st Universal Cup. Stage 1: Shenyang           | 2023.1.28  | 99/917   | (6)5/13    | ○    |      | ○    | ○    |      | ○    |      |      | √    |      |      | ○    |      | ×    |
 |          The 1st Universal Cup. Stage 2: Hong Kong           | 2023.2.4   | 66/347   | (10)8/12   | ○    | ○    | ○    | √    | ○    | √    | ○    | ○    |      |      | ○    | ○    | ×    | ×    |
 |            The 1st Universal Cup. Stage 3: Poland            | 2023.2.11  | 82/203   | (8)8/13    | ○    | ○    | ○    | ○    |      |      | ○    |      | ○    |      | ○    |      | ○    | ×    |
+|           The 1st Universal Cup. Stage 4: Ukraine            | 2023.2.18  | 98/170   | (6)6/14    | ○    | ○    |      |      | ○    | ○    |      |      | ○    |      | ○    |      |      |      |
 | SWERC 2022-2023 - Online Mirror (Unrated, ICPC Rules, Teams Preferred) | 2023.2.19  | 106/3496 | (8)6/14    | ○    | ○    | √    |      |      | ○    | ○    | ○    |      | √    |      | ○    |      |      |
 
 
