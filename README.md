@@ -40,6 +40,8 @@
 |            The 1st Universal Cup. Stage 3: Poland            | 2023.2.11  | 82/203   | (8)8/13    | ○    | ○    | ○    | ○    |      |      | ○    |      | ○    |      | ○    |      | ○    | ×    |
 |           The 1st Universal Cup. Stage 4: Ukraine            | 2023.2.18  | 98/170   | (6)6/14    | ○    | ○    |      |      | ○    | ○    |      |      | ○    |      | ○    |      |      |      |
 | SWERC 2022-2023 - Online Mirror (Unrated, ICPC Rules, Teams Preferred) | 2023.2.19  | 106/3496 | (8)6/14    | ○    | ○    | √    |      |      | ○    | ○    | ○    |      | √    |      | ○    |      |      |
+| 2021-2022 ICPC East Central North America Regional Contest (ECNA 2021) | 2023.2.23  | 9/73     | (10)9/13   | ○    | ○    |      |      | √    | ○    | ○    |      | ○    | ○    | ○    | ○    | ○    | ×    |
+|            The 1st Universal Cup. Stage 5: Osijek            | 2023.2.25  | 32/170   | (5)5/10    | ○    |      |      |      |      | ○    | ○    |      | ○    | ○    | ×    | ×    | ×    | ×    |
 
 
 
