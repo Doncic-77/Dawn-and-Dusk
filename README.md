@@ -24,24 +24,26 @@
 
 有时是2个人打的。
 
-|                             Name                             | Date       | Rank     | (up)Solved | A    | B    | C    | D    | E    | F    | G    | H    | I    | J    | K    | L    | M    | N    |
-| :----------------------------------------------------------: | ---------- | -------- | ---------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 2022 China Collegiate Programming Contest (CCPC) Weihai Site | 2022.11.17 | 14/288   | (10)8/13   | ○    | √    | ○    | ○    | ○    | √    | ○    |      | ○    | ○    | ○    |      |      | ×    |
-| 2022 China Collegiate Programming Contest (CCPC) Guangzhou Onsite | 2022.11.20 | 89/283   | (10)4/13   | √    | √    | √    |      | ○    |      |      | ○    | √    | √    | √    | ○    | ○    | ×    |
-| 2022 China Collegiate Programming Contest (CCPC) Mianyang Onsite | 2022.11.24 | 65/280   | (8)5/13    | ○    |      | ○    | √    | √    |      | ○    | ○    |      |      |      | √    | ○    | ×    |
-| 2022-2023 ICPC, NERC, Southern and Volga Russian Regional Contest | 2022.11.27 | 47/1307  | (12)9/14   | √    | ○    |      | ○    | ○    | ○    | √    | ○    | √    |      | ○    | ○    | ○    | ○    |
-| 2022 International Collegiate Programming Contest, Jinan Site | 2022.12.2  | 16/564   | (7)7/13    | ○    |      | ○    | ○    | ○    |      | ○    |      |      |      | ○    |      | ○    | ×    |
-| 2022-2023 ICPC, NERC, Northern Eurasia Onsite (Unrated, Online Mirror, ICPC Rules, Teams Preferred) | 2022.12.7  | 54/1381  | (8)6/12    | ○    | ○    |      | √    | ○    | ○    |      | √    | ○    |      | ○    |      | ×    | ×    |
-| 2021-2022 ICPC Northwestern European Regional Programming Contest (NWERC 2021) | 2022.12.10 | 36/129   | (8)5/12    | ○    |      |      | √    |      | √    | ○    | ○    | √    | ○    | ○    |      | ×    | ×    |
-|   The 2020 ICPC Asia Yinchuan Regional Programming Contest   | 2022.12.14 | 6/506    | (7)7/13    | ○    | ○    |      |      | ○    |      | ○    |      |      | ○    | ○    |      | ○    | ×    |
-| 2020-2021 ICPC NERC (NEERC), North-Western Russia Regional Contest (Northern Subregionals) | 2022.12.16 | 9/360    | (11)11/14  | ○    | ○    | ○    | ○    | ○    | ○    |      | ○    | ○    |      |      | ○    | ○    | ○    |
-|           The 1st Universal Cup. Stage 1: Shenyang           | 2023.1.28  | 99/917   | (6)5/13    | ○    |      | ○    | ○    |      | ○    |      |      | √    |      |      | ○    |      | ×    |
-|          The 1st Universal Cup. Stage 2: Hong Kong           | 2023.2.4   | 66/347   | (10)8/12   | ○    | ○    | ○    | √    | ○    | √    | ○    | ○    |      |      | ○    | ○    | ×    | ×    |
-|            The 1st Universal Cup. Stage 3: Poland            | 2023.2.11  | 82/203   | (8)8/13    | ○    | ○    | ○    | ○    |      |      | ○    |      | ○    |      | ○    |      | ○    | ×    |
-|           The 1st Universal Cup. Stage 4: Ukraine            | 2023.2.18  | 98/170   | (6)6/14    | ○    | ○    |      |      | ○    | ○    |      |      | ○    |      | ○    |      |      |      |
-| SWERC 2022-2023 - Online Mirror (Unrated, ICPC Rules, Teams Preferred) | 2023.2.19  | 106/3496 | (8)6/14    | ○    | ○    | √    |      |      | ○    | ○    | ○    |      | √    |      | ○    |      |      |
-| 2021-2022 ICPC East Central North America Regional Contest (ECNA 2021) | 2023.2.23  | 9/73     | (10)9/13   | ○    | ○    |      |      | √    | ○    | ○    |      | ○    | ○    | ○    | ○    | ○    | ×    |
-|            The 1st Universal Cup. Stage 5: Osijek            | 2023.2.25  | 32/170   | (5)5/10    | ○    |      |      |      |      | ○    | ○    |      | ○    | ○    | ×    | ×    | ×    | ×    |
+|                             Name                             | Date       | Rank                 | (up)Solved | A    | B    | C    | D    | E    | F    | G    | H    | I    | J    | K    | L    | M    | N    |
+| :----------------------------------------------------------: | ---------- | -------------------- | ---------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 2022 China Collegiate Programming Contest (CCPC) Weihai Site | 2022.11.17 | 14/288               | (10)8/13   | ○    | √    | ○    | ○    | ○    | √    | ○    |      | ○    | ○    | ○    |      |      | ×    |
+| 2022 China Collegiate Programming Contest (CCPC) Guangzhou Onsite | 2022.11.20 | 89/283               | (10)4/13   | √    | √    | √    |      | ○    |      |      | ○    | √    | √    | √    | ○    | ○    | ×    |
+| 2022 China Collegiate Programming Contest (CCPC) Mianyang Onsite | 2022.11.24 | 65/280               | (8)5/13    | ○    |      | ○    | √    | √    |      | ○    | ○    |      |      |      | √    | ○    | ×    |
+| 2022-2023 ICPC, NERC, Southern and Volga Russian Regional Contest | 2022.11.27 | 47/1307              | (12)9/14   | √    | ○    |      | ○    | ○    | ○    | √    | ○    | √    |      | ○    | ○    | ○    | ○    |
+| 2022 International Collegiate Programming Contest, Jinan Site | 2022.12.2  | 16/564               | (7)7/13    | ○    |      | ○    | ○    | ○    |      | ○    |      |      |      | ○    |      | ○    | ×    |
+| 2022-2023 ICPC, NERC, Northern Eurasia Onsite (Unrated, Online Mirror, ICPC Rules, Teams Preferred) | 2022.12.7  | 54/1381              | (8)6/12    | ○    | ○    |      | √    | ○    | ○    |      | √    | ○    |      | ○    |      | ×    | ×    |
+| 2021-2022 ICPC Northwestern European Regional Programming Contest (NWERC 2021) | 2022.12.10 | 36/129               | (8)5/12    | ○    |      |      | √    |      | √    | ○    | ○    | √    | ○    | ○    |      | ×    | ×    |
+|   The 2020 ICPC Asia Yinchuan Regional Programming Contest   | 2022.12.14 | 6/506                | (7)7/13    | ○    | ○    |      |      | ○    |      | ○    |      |      | ○    | ○    |      | ○    | ×    |
+| 2020-2021 ICPC NERC (NEERC), North-Western Russia Regional Contest (Northern Subregionals) | 2022.12.16 | 9/360                | (11)11/14  | ○    | ○    | ○    | ○    | ○    | ○    |      | ○    | ○    |      |      | ○    | ○    | ○    |
+|           The 1st Universal Cup. Stage 1: Shenyang           | 2023.1.28  | 99/917               | (6)5/13    | ○    |      | ○    | ○    |      | ○    |      |      | √    |      |      | ○    |      | ×    |
+|          The 1st Universal Cup. Stage 2: Hong Kong           | 2023.2.4   | 66/347               | (10)8/12   | ○    | ○    | ○    | √    | ○    | √    | ○    | ○    |      |      | ○    | ○    | ×    | ×    |
+|            The 1st Universal Cup. Stage 3: Poland            | 2023.2.11  | 82/203               | (8)8/13    | ○    | ○    | ○    | ○    |      |      | ○    |      | ○    |      | ○    |      | ○    | ×    |
+|           The 1st Universal Cup. Stage 4: Ukraine            | 2023.2.18  | 98/170               | (6)6/14    | ○    | ○    |      |      | ○    | ○    |      |      | ○    |      | ○    |      |      |      |
+| SWERC 2022-2023 - Online Mirror (Unrated, ICPC Rules, Teams Preferred) | 2023.2.19  | 106/3496             | (8)6/14    | ○    | ○    | √    |      |      | ○    | ○    | ○    |      | √    |      | ○    |      |      |
+| 2021-2022 ICPC East Central North America Regional Contest (ECNA 2021) | 2023.2.23  | 9/73                 | (10)9/13   | ○    | ○    |      |      | √    | ○    | ○    |      | ○    | ○    | ○    | ○    | ○    | ×    |
+|            The 1st Universal Cup. Stage 5: Osijek            | 2023.2.25  | 32/170               | (5)5/10    | ○    |      |      |      |      | ○    | ○    |      | ○    | ○    | ×    | ×    | ×    | ×    |
+|         The 2019 ICPC Asia Yinchuan Regional Contest         | 2023.3.8   | 1/402 虚空夺冠爽死了 | (12)12/14  | ○    | ○    |      | ○    | ○    | ○    | ○    | ○    | ○    | ○    | ○    | ○    |      | ○    |
+| 2022-2023 ICPC NERC (NEERC), North-Western Russia Regional Contest (Northern Subregionals) | 2023.3.11  | 16/667               | (11)11/14  |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 
 
 
