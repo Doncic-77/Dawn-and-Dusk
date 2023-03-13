@@ -43,7 +43,7 @@
 | 2021-2022 ICPC East Central North America Regional Contest (ECNA 2021) | 2023.2.23  | 9/73                 | (10)9/13   | ○    | ○    |      |      | √    | ○    | ○    |      | ○    | ○    | ○    | ○    | ○    | ×    |
 |            The 1st Universal Cup. Stage 5: Osijek            | 2023.2.25  | 32/170               | (5)5/10    | ○    |      |      |      |      | ○    | ○    |      | ○    | ○    | ×    | ×    | ×    | ×    |
 |         The 2019 ICPC Asia Yinchuan Regional Contest         | 2023.3.8   | 1/402 虚空夺冠爽死了 | (12)12/14  | ○    | ○    |      | ○    | ○    | ○    | ○    | ○    | ○    | ○    | ○    | ○    |      | ○    |
-| 2022-2023 ICPC NERC (NEERC), North-Western Russia Regional Contest (Northern Subregionals) | 2023.3.11  | 16/667               | (11)11/14  |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| 2022-2023 ICPC NERC (NEERC), North-Western Russia Regional Contest (Northern Subregionals) | 2023.3.11  | 16/667               | (12)11/14  | ○    | ○    | ○    | ○    | ○    | ○    | √    |      | ○    |      | ○    | ○    | ○    | ○    |
 
 
 
