@@ -213,3 +213,13 @@ ac自动机建图跑数位dp ac自动机跑高斯消元
 圆的反演
 
 做一些medium
+
+
+
+# 告别
+
+送君千里 终有一别
+
+Dawn and Dusk out !!!!!!
+
+[队伍散伙贴](https://www.zhihu.com/question/543929336/answer/2956216755)
