@@ -44,6 +44,7 @@
 |            The 1st Universal Cup. Stage 5: Osijek            | 2023.2.25  | 32/170               | (5)5/10    | ○    |      |      |      |      | ○    | ○    |      | ○    | ○    | ×    | ×    | ×    | ×    |
 |         The 2019 ICPC Asia Yinchuan Regional Contest         | 2023.3.8   | 1/402 虚空夺冠爽死了 | (12)12/14  | ○    | ○    |      | ○    | ○    | ○    | ○    | ○    | ○    | ○    | ○    | ○    |      | ○    |
 | 2022-2023 ICPC NERC (NEERC), North-Western Russia Regional Contest (Northern Subregionals) | 2023.3.11  | 16/667               | (12)11/14  | ○    | ○    | ○    | ○    | ○    | ○    | √    |      | ○    |      | ○    | ○    | ○    | ○    |
+| 2017 China Collegiate Programming Contest Final (CCPC-Final 2017) | 2023.3.18  | 24/311               | (7)7/11    | ○    |      | ○    |      | ○    |      | ○    |      | ○    | ○    | ○    | ×    | ×    | ×    |
 
 
 
@@ -53,6 +54,7 @@
 | :----------------------------------------------------------: | ---------- | ------ | ---------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 2022 International Collegiate Programming Contest, Hangzhou Site | 2022.12.4  | 25/544 | (8)7/13    | ○    |      | ○    | ○    |      | ○    | ○    |      | √    |      | ○    |      | ○    |
 | 2022 International Collegiate Programming Contest, Nanjing Site | 2022.12.18 | 21/417 | (9)7/13    | ○    | ○    |      | ○    | ○    |      | ○    |      | ○    | √    | √    |      | ○    |
+|             2022 ICPC Asia East Continent Final              | 2023.3.25  | 68/280 | (5)5/13    |      |      | ○    |      |      | ○    |      |      | ○    | ○    |      |      | ○    |
 
 
 

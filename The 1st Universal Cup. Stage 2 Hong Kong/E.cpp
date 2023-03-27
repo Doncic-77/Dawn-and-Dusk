@@ -32,7 +32,7 @@ void Ad(int z,int y,int c,int w){
 void Qr(int z,int y,int c){
 	if(z>r||y<l)return;
 //	Upd(c);
-	if(A[c])return;
+	// if(A[c])return;
 	if(z>=l&&y<=r){
 		rs+=tr[c];
 		return;
